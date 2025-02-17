@@ -7,9 +7,10 @@ This repository contains the simulation file **MMC_MultifreqOrig.slx**, develope
 **Dynamic Phasor Modeling of the Single-Phase MMC under Modulation PSC-PWM**
 
 ### Authors:
-- Andres Alejandro Valdez-Fernandez  
+
 - Glendy A. Catzin-Contreras  
-- Gerado Escobar  
+- Gerardo Escobar
+- Andres A. Valdez-Fernandez 
 - Manuel J. Lopez-Sanchez  
 
 ## Description
@@ -35,7 +36,7 @@ The simulation provides:
 If you use this simulation in your research, please cite the original article:
 
 **Dynamic Phasor Modeling of the Single-Phase MMC under Modulation PSC-PWM**  
-Authors: Andres Alejandro Valdez-Fernandez, Glendy A. Catzin-Contreras, Gerado Escobar, Manuel J. Lopez-Sanchez
+Authors: Glendy A. Catzin-Contreras, Gerardo Escobar, Andres A. Valdez-Fernandez, Manuel J. Lopez-Sanchez
 
 ---
 For any questions or further information, please contact the authors.
