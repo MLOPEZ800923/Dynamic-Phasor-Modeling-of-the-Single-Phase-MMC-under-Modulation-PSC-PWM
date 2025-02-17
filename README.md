@@ -17,8 +17,8 @@ This Simulink file implements the dynamic phasor model of a single-phase Modular
 
 ## Requirements
 - MATLAB Simulink **2023b** or later
-- Control System Toolbox (recommended)
-- Simscape Electrical (optional, if physical modeling is needed)
+- Control System Toolbox
+- Simscape Electrical
 
 ## Usage Instructions
 1. Open MATLAB Simulink **2023b**.
